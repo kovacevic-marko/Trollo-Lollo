@@ -11,7 +11,7 @@ Korisnik ima ukupno 6 znakova koje može da upotrebi u svojoj kombinaciji.
 <img src="https://github.com/kovacevic-marko/Trollo-Lollo/blob/master/Screenshots/2.jpg" /><br>
 <i>Trollo</i>
 
-### Forma - Početna
+## 1. Početna stranica
 
 <img src="https://github.com/kovacevic-marko/Trollo-Lollo/blob/master/Screenshots/3.jpg" /><br></br>
 Na početnoj formi korisnik unosi podatke i bira nivo igre. 
@@ -41,7 +41,7 @@ Dugme za uključivanje/isključivanje muzike. Nalazi se u gornjem desnom uglu. P
 <img src="https://github.com/kovacevic-marko/Trollo-Lollo/blob/master/Screenshots/9.jpg" /><br>
 Dugme za uključivanje/isključivanje muzike. Nalazi se u gornjem desnom uglu. Pokazuje da je muzika isključena
 
-### Forma - Igra
+## 2. Igra
 
 <img src="https://github.com/kovacevic-marko/Trollo-Lollo/blob/master/Screenshots/10.jpg" /><br>
 Na formi Igra korisnik pogađa kombinaciju koju je kompjuter zamislio za određeno vreme I za određen broj dozvoljenih pokušaja (zavisno od nivoa koji je odabrao na Početnoj formi).
@@ -101,13 +101,13 @@ Kada korisnik pređe mišem preko Pupinove ili Tesline pomoći automatski mu se 
 <i>Teslin Tool Tip</i>
 
 
-### Forma – Rang lista
+## 3. Rang lista
 
 <img src="https://github.com/kovacevic-marko/Trollo-Lollo/blob/master/Screenshots/27.jpg" /><br>
 Na formi Rang lista korisniku se prikazuje rezultat korisnika koji je osvojio tako što mu se selektuje Ime I automtaski se skroluje do pozicije na kojoj se nalazi.
 
 <img src="https://github.com/kovacevic-marko/Trollo-Lollo/blob/master/Screenshots/28.jpg" /><br>
-Tabela u kojoj je smeštena Rang lista. Sadrži kolone Osvojeno mesto, Ime, Prezime, Škola/Fakulter, Rezultat.
+Tabela u kojoj je smeštena Rang lista. Sadrži kolone Osvojeno mesto, Ime, Prezime, Škola/Fakultet i Rezultat.
 
 <img src="https://github.com/kovacevic-marko/Trollo-Lollo/blob/master/Screenshots/29.jpg" /><br>
 Dugme koje vodi na Početnu formu gde korisnik upisuje svoje podatke I bira nivo težine igre. Klikom na ovo dugme resetuju se korisnikovi podaci I izabrani nivo igre.
@@ -123,3 +123,7 @@ Dugme za uključivanje/isključivanje muzike. Nalazi se u gornjem desnom uglu. P
 
 <img src="https://github.com/kovacevic-marko/Trollo-Lollo/blob/master/Screenshots/33.jpg" /><br>
 Dugme za uključivanje/isključivanje muzike. Nalazi se u gornjem desnom uglu. Pokazuje da je muzika isključena.
+
+
+<br><br><br>
+Datum proizvodnje: Januar 2018.
